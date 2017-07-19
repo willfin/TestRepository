@@ -22,7 +22,8 @@ namespace WebApplication2.Controllers
 
         public ActionResult Contact()
         {
-            string asr = "";
+            string asr = "dsdsd";
+
             ViewBag.Message = "Your contact page.";
 
             return View();
