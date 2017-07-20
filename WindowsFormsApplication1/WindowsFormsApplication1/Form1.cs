@@ -19,7 +19,7 @@ namespace WindowsFormsApplication1
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            MessageBox.Show("Hi.. !!! God is good all the time !!!!...");
+            MessageBox.Show("Hi.. !!! God is good all the time !!!!......");
             MessageBox.Show("Hi.. !!!...");
             MessageBox.Show("Hello ..");
         }
